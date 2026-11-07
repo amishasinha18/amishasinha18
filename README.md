@@ -64,7 +64,7 @@ Cloud and DevOps learner. I like turning repetitive work into automation, and br
   <img src="assets/metrics.stats.svg" alt="GitHub statistics">
 </p>
 <p align="center">
-  <img src="assets/metrics.achievements.svg" alt="GitHub achievements">
+  <img src="https://github-profile-trophy.vercel.app/?username=amishasinha18&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies">
 </p>
 
 ---
