@@ -1,0 +1,51 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Isometric contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: amishasinha18
+          filename: assets/metrics.isocalendar.svg
+          output_action: commit
+          committer_branch: main
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Stats card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: amishasinha18
+          filename: assets/metrics.stats.svg
+          output_action: commit
+          committer_branch: main
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: amishasinha18
+          filename: assets/metrics.achievements.svg
+          output_action: commit
+          committer_branch: main
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 8
