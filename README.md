@@ -1,4 +1,3 @@
-
 <h1 align="center"><code>Amisha Sinha</code></h1>
 
 <p align="center"><b>Cloud and DevOps Enthusiast</b><br><i>Bridging problems to automated cloud solutions</i></p>
@@ -51,6 +50,14 @@ Cloud and DevOps learner. I like turning repetitive work into automation, and br
 
 <p align="center">
   <img src="assets/metrics.isocalendar.svg" alt="isometric contribution calendar">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amishasinha18/amishasinha18/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amishasinha18/amishasinha18/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/amishasinha18/amishasinha18/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
