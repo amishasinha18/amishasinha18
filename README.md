@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/portrait.png" width="320" alt="dot matrix portrait">
-</p>
 
 <h1 align="center"><code>Amisha Sinha</code></h1>
 
