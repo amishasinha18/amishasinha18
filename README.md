@@ -33,7 +33,7 @@ Cloud and DevOps learner. I like turning repetitive work into automation, and br
 <h2 align="center">~/ toolbox</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,bash,python&perline=7" alt="tech stack">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,python,bash,nginx,prometheus,grafana,postgres,mysql,git,githubactions,cloudflare&perline=8" alt="tech stack">
 </p>
 
 ---
