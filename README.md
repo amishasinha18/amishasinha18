@@ -12,6 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=amishasinha18&label=profile%20views&color=2ea043" alt="profile views">
 </p>
 
+<p align="center">
+  <img src="assets/terminal.svg" alt="terminal intro animation">
+</p>
+
 ---
 
 ## ~/ whoami
