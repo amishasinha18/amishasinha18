@@ -69,7 +69,11 @@ Cloud and DevOps learner. I like turning repetitive work into automation, and br
 <h2 align="center">~/ the numbers</h2>
 
 <p align="center">
-  <img src="assets/metrics.stats.svg" alt="GitHub statistics">
+  <img src="assets/numbers.svg" alt="GitHub numbers">
+</p>
+
+<p align="center">
+  <img src="assets/achievements.svg" alt="GitHub achievements">
 </p>
 
 ---
