@@ -1,0 +1,30 @@
+{
+  "_comment": [
+    "EDIT THESE SCORES. They were set from what the public repos show, not from",
+    "anything Amisha said about herself, so treat them as a starting point rather",
+    "than a verdict. Nobody else can rate this for you.",
+    "",
+    "Axes were chosen from the repos that exist: six on Docker and Compose, one",
+    "Jenkins pipeline, a Maven build, a Bash firewall manager, two Python projects.",
+    "",
+    "Scores are out of 10 for the radar and out of 100 for languages. Keep language",
+    "notes under ~28 characters or the gauge legend clips them."
+  ],
+
+  "radar": [
+    { "axis": "Docker & Compose", "score": 7, "why": "Six repos: scaling, persistent storage, dependent startup, Spring Boot images" },
+    { "axis": "Linux & shell",    "score": 6, "why": "UFW Hybrid Manager — a CLI and TUI firewall tool written in Bash" },
+    { "axis": "CI/CD",            "score": 5, "why": "jenkins-demo and a Maven build pipeline" },
+    { "axis": "AI & Python",      "score": 6, "why": "Adaptive Care, a healthcare chatbot on Groq" },
+    { "axis": "Web & frontend",   "score": 7, "why": "Eight JavaScript repos, plus the CallIQ front end in Next.js" },
+    { "axis": "Cloud",            "score": 4, "why": "Stated direction rather than shipped work — raise it when that changes" }
+  ],
+
+  "languages": [
+    { "name": "JavaScript", "score": 80, "note": "eight repos, CallIQ included" },
+    { "name": "Python",     "score": 55, "note": "Adaptive Care, storage demos" },
+    { "name": "Java",       "score": 45, "note": "Spring Boot and Maven" },
+    { "name": "Shell",      "score": 45, "note": "the UFW manager" },
+    { "name": "TypeScript", "score": 35, "note": "IPC framework" }
+  ]
+}

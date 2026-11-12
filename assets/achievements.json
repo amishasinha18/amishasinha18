@@ -1,0 +1,17 @@
+{
+  "_comment": [
+    "Hand-maintained, and it has to be. GitHub publishes profile achievements in no",
+    "API — not REST, not GraphQL. They exist only in the HTML of the profile page.",
+    "So this list cannot refresh itself and goes stale the day another is earned.",
+    "",
+    "Check against github.com/amishasinha18 when you remember to.",
+    "Pair Extraordinaire is listed because CallIQ PR #1 was merged with a",
+    "co-authored commit; remove it if it has not appeared on the profile."
+  ],
+  "badges": [
+    { "name": "Pair Extraordinaire", "tier": "", "what": "Co-authored a merged pull request", "glyph": "><" },
+    { "name": "Galaxy Brain",        "tier": "", "what": "Accepted answer in a Discussion",   "glyph": "{}" },
+    { "name": "Quickdraw",           "tier": "", "what": "Closed an issue or PR within 5 minutes", "glyph": ">_" },
+    { "name": "YOLO",                "tier": "", "what": "Merged without review",             "glyph": "!!" }
+  ]
+}

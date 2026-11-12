@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="420" viewBox="0 0 580 420" font-family="JetBrains Mono, ui-monospace, monospace">
+<text x="22" y="30" fill="#14171d" font-size="15" font-weight="600">Languages</text>
+<text x="22" y="50" fill="#666f7d" font-size="11">What I write by hand, not a byte count</text>
+<line x1="22" y1="66" x2="558" y2="66" stroke="#e4e6ec" stroke-width="1"/>
+<circle cx="136" cy="246" r="84" fill="none" stroke="#e4e6ec" stroke-width="9"/>
+<path d="M 136.0 162.0 A 84 84 0 1 1 56.1 220.0" fill="none" stroke="#3572A5" stroke-width="9" stroke-linecap="round"/>
+<circle cx="136" cy="246" r="69" fill="none" stroke="#e4e6ec" stroke-width="9"/>
+<path d="M 136.0 177.0 A 69 69 0 1 1 114.7 311.6" fill="none" stroke="#89e051" stroke-width="9" stroke-linecap="round"/>
+<circle cx="136" cy="246" r="54" fill="none" stroke="#e4e6ec" stroke-width="9"/>
+<path d="M 136.0 192.0 A 54 54 0 0 1 152.7 297.4" fill="none" stroke="#00ADD8" stroke-width="9" stroke-linecap="round"/>
+<circle cx="136" cy="246" r="39" fill="none" stroke="#e4e6ec" stroke-width="9"/>
+<path d="M 136.0 207.0 A 39 39 0 0 1 148.1 283.1" fill="none" stroke="#dea584" stroke-width="9" stroke-linecap="round"/>
+<circle cx="136" cy="246" r="24" fill="none" stroke="#e4e6ec" stroke-width="9"/>
+<path d="M 136.0 222.0 A 24 24 0 0 1 155.4 260.1" fill="none" stroke="#f1e05a" stroke-width="9" stroke-linecap="round"/>
+<text x="136" y="242" fill="#14171d" font-size="25" font-weight="600" text-anchor="middle">5</text>
+<text x="136" y="262" fill="#666f7d" font-size="11" text-anchor="middle">languages</text>
+<text x="96" y="104" fill="#666f7d" font-size="10" text-anchor="end">JavaScript</text>
+<circle cx="106" cy="101" r="3.5" fill="#3572A5"/>
+<text x="96" y="121" fill="#666f7d" font-size="10" text-anchor="end">Python</text>
+<circle cx="106" cy="118" r="3.5" fill="#89e051"/>
+<text x="96" y="138" fill="#666f7d" font-size="10" text-anchor="end">Java</text>
+<circle cx="106" cy="135" r="3.5" fill="#00ADD8"/>
+<text x="96" y="155" fill="#666f7d" font-size="10" text-anchor="end">Shell</text>
+<circle cx="106" cy="152" r="3.5" fill="#dea584"/>
+<text x="96" y="172" fill="#666f7d" font-size="10" text-anchor="end">TypeScript</text>
+<circle cx="106" cy="169" r="3.5" fill="#f1e05a"/>
+<text x="262" y="96" fill="#666f7d" font-size="9" letter-spacing="1">LANGUAGE</text>
+<text x="558" y="96" fill="#666f7d" font-size="9" letter-spacing="1" text-anchor="end">SHARE</text>
+<circle cx="267" cy="124" r="4" fill="#3572A5"/>
+<text x="280" y="128" fill="#14171d" font-size="12">JavaScript</text>
+<text x="558" y="128" fill="#14171d" font-size="12" text-anchor="end">80%</text>
+<rect x="280" y="135" width="278" height="5" rx="2.5" fill="#e4e6ec"/>
+<rect x="280" y="135" width="222.4" height="5" rx="2.5" fill="#3572A5"/>
+<text x="280" y="154" fill="#666f7d" font-size="9.5">eight repos, CallIQ included</text>
+<circle cx="267" cy="170" r="4" fill="#89e051"/>
+<text x="280" y="174" fill="#14171d" font-size="12">Python</text>
+<text x="558" y="174" fill="#14171d" font-size="12" text-anchor="end">55%</text>
+<rect x="280" y="181" width="278" height="5" rx="2.5" fill="#e4e6ec"/>
+<rect x="280" y="181" width="152.9" height="5" rx="2.5" fill="#89e051"/>
+<text x="280" y="200" fill="#666f7d" font-size="9.5">Adaptive Care, storage demos</text>
+<circle cx="267" cy="216" r="4" fill="#00ADD8"/>
+<text x="280" y="220" fill="#14171d" font-size="12">Java</text>
+<text x="558" y="220" fill="#14171d" font-size="12" text-anchor="end">45%</text>
+<rect x="280" y="227" width="278" height="5" rx="2.5" fill="#e4e6ec"/>
+<rect x="280" y="227" width="125.1" height="5" rx="2.5" fill="#00ADD8"/>
+<text x="280" y="246" fill="#666f7d" font-size="9.5">Spring Boot and Maven</text>
+<circle cx="267" cy="262" r="4" fill="#dea584"/>
+<text x="280" y="266" fill="#14171d" font-size="12">Shell</text>
+<text x="558" y="266" fill="#14171d" font-size="12" text-anchor="end">45%</text>
+<rect x="280" y="273" width="278" height="5" rx="2.5" fill="#e4e6ec"/>
+<rect x="280" y="273" width="125.1" height="5" rx="2.5" fill="#dea584"/>
+<text x="280" y="292" fill="#666f7d" font-size="9.5">the UFW manager</text>
+<circle cx="267" cy="308" r="4" fill="#f1e05a"/>
+<text x="280" y="312" fill="#14171d" font-size="12">TypeScript</text>
+<text x="558" y="312" fill="#14171d" font-size="12" text-anchor="end">35%</text>
+<rect x="280" y="319" width="278" height="5" rx="2.5" fill="#e4e6ec"/>
+<rect x="280" y="319" width="97.3" height="5" rx="2.5" fill="#f1e05a"/>
+<text x="280" y="338" fill="#666f7d" font-size="9.5">IPC framework</text>
+<line x1="22" y1="380" x2="558" y2="380" stroke="#e4e6ec" stroke-width="1"/>
+<text x="22" y="400" fill="#666f7d" font-size="9.5">Self-rated · read off the public repos, not off a CV</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="240" viewBox="0 0 560 240" font-family="JetBrains Mono, ui-monospace, monospace">
+<rect x="1" y="1" width="558" height="238" rx="14" fill="#ffffff" stroke="#e4e6ec" stroke-width="2"/>
+<text x="22" y="36" fill="#1a7f37" font-size="14" font-weight="600">amishasinha18</text>
+<text x="538" y="36" fill="#666f7d" font-size="11" text-anchor="end">at a glance</text>
+<line x1="22" y1="54" x2="538" y2="54" stroke="#e4e6ec" stroke-width="1"/>
+<text x="22" y="100" fill="#14171d" font-size="26" font-weight="600">0</text>
+<text x="22" y="120" fill="#666f7d" font-size="10.5">Total stars</text>
+<text x="194" y="100" fill="#14171d" font-size="26" font-weight="600">23</text>
+<text x="194" y="120" fill="#666f7d" font-size="10.5">Public repos</text>
+<text x="366" y="100" fill="#14171d" font-size="26" font-weight="600">1</text>
+<text x="366" y="120" fill="#666f7d" font-size="10.5">Followers</text>
+<text x="22" y="172" fill="#14171d" font-size="26" font-weight="600">127</text>
+<text x="22" y="192" fill="#666f7d" font-size="10.5">Contributions (1y)</text>
+<text x="194" y="172" fill="#14171d" font-size="26" font-weight="600">1</text>
+<text x="194" y="192" fill="#666f7d" font-size="10.5">Current streak</text>
+<text x="366" y="172" fill="#14171d" font-size="26" font-weight="600">3</text>
+<text x="366" y="192" fill="#666f7d" font-size="10.5">Longest streak</text>
+</svg>

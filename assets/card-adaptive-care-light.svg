@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" font-family="JetBrains Mono, ui-monospace, monospace">
+<rect x="1" y="1" width="418" height="148" rx="14" fill="#ffffff" stroke="#e4e6ec" stroke-width="2"/>
+<text x="22" y="38" fill="#1a7f37" font-size="16" font-weight="600">adaptive-care</text>
+<text x="22" y="66" fill="#666f7d" font-size="12">No description</text>
+<circle cx="28" cy="120" r="5" fill="#3572A5"/>
+<text x="42" y="124" fill="#14171d" font-size="12">Python</text>
+<text x="398" y="124" fill="#666f7d" font-size="12" text-anchor="end">&#9733; 0  &#9282; 0</text>
+</svg>

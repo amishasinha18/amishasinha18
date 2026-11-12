@@ -1,0 +1,16 @@
+{
+  "_comment": [
+    "Repos that get a card, in display order. `lang` overrides the language GitHub",
+    "reports, which is whatever has the most bytes and not always what a project is",
+    "about. Use it only to correct that.",
+    "",
+    "None of these four have a description set on GitHub, so their cards will read",
+    "'No description' until that is fixed. See STEPS.txt."
+  ],
+  "repos": [
+    "UFW_Managment_System",
+    "docker-compose-scaling",
+    "adaptive-care",
+    "CallIQ"
+  ]
+}
