@@ -1,0 +1,51 @@
+name: Charts and cards
+
+# Redraws the radar, the language bars, the stat card and the project cards.
+# Runs daily so the star and fork counts on the cards do not quietly go stale,
+# and on push so editing assets/skills.json is enough to see the chart change.
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "assets/skills.json"
+      - "assets/achievements.json"
+      - "assets/projects.json"
+      - "scripts/radar.py"
+      - "scripts/achievements.py"
+      - "scripts/cards.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Draw charts
+        run: |
+          python scripts/radar.py
+          python scripts/achievements.py
+
+      - name: Draw cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python scripts/cards.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --staged --quiet || git commit -m "chore: redraw charts and cards"
+          git push
